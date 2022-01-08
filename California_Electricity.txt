@@ -1,0 +1,9 @@
+Sources of Electricity in California
+Electricity, 255,255,0
+Natural Gas, 43.0,0,170,0 
+Solar, 19.0,0,255,0
+Hydroelectric,12.3,0,0,192
+Nuclear, 8.7, 192,0,9
+Wind, 6.5, 0,200,0
+Geothermal, 5.7
+Other, 3.9
