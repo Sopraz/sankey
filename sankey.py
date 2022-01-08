@@ -1,7 +1,6 @@
 #!/usr/bin/env python3 
-"""Draw a sankey diagram using data from a given input file.
-Student number : 20049301
-Additional Challenge 2 attempted.
+"""
+Draw a sankey diagram using data from a given input file.
 """
 import sys
 from ezgraphics import GraphicsWindow
